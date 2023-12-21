@@ -1,0 +1,27 @@
+header {
+    text-align: center;
+}
+
+.row>div {
+    background-color: gray;
+    border: solid black 1px;
+    margin: 10px 0px 10px 0px;
+}
+
+.menuHeading {
+    width: 200px;
+    text-align: center;
+    border: solid black 1px;
+}
+
+#chicken {
+    background-color: rgb(207, 143, 130);
+}
+
+#beef {
+    background-color: rgb(158, 46, 24);
+}
+
+#sushi {
+    background-color: rgb(240, 232, 187);
+}
